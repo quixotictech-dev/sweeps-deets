@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": {
+            "first": "Adam",
+            "last": "Whitney"
+        },
+        "phone": "1-605-630-3470",
+        "address": {
+            "street": "3120 S. Ronsiek Ave",
+            "apt.": "Unit 6",
+            "city": "Sioux Falls",
+            "state": "South Dakota",
+            "zip": "57106"
+        },
+        "birthdate": "02/15/1983"
+    }
+}
